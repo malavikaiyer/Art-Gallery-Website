@@ -44,7 +44,7 @@
     <div class="innerScrollArea">
         <ul>
             <li><a href="artistDaVinci.php" id="art" onclick="document.location=this.id+'.html';return false;" ><img src="vinci_logo.jpeg" alt="Priya" height = "90px" width="200p" /></a></li>
-            <li><a href="artistPicasso.php" id="artistPicasso" onclick="document.location=this.id+'.html';return false;" ><img id="img2" src="matisse_logo.png"  alt="Priya" height="90px"  
+            <li><a href="artistMatisse.php" id="artistMatisse" onclick="document.location=this.id+'.html';return false;" ><img id="img2" src="matisse_logo.png"  alt="Priya" height="90px"  
                   /></a></li>
             <li><a href="artistPicasso.php" id="artistPicasso" onclick="document.location=this.id+'.html';return false;" ><img id="img3" src="picasso_logo.png"  alt="Priya" height = "90px" 
                  /></a></li>
