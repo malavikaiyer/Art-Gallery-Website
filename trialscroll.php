@@ -43,14 +43,14 @@
 <div id="scroller"style="width: 100%; height: 90px;">
     <div class="innerScrollArea">
         <ul>
-            <li><a href="artistDaVinci.php" id="art" onclick="document.location=this.id+'.php';return false;" ><img src="vinci_logo.jpeg" alt="Priya" height = "90px" width="200p" /></a></li>
+            <li><a href="artistDaVinci.php" id="artistDaVinci" onclick="document.location=this.id+'.php';return false;" ><img src="vinci_logo.jpeg" alt="Priya" height = "90px" width="200p" /></a></li>
             <li><a href="artistMatisse.php" id="artistMatisse" onclick="document.location=this.id+'.php';return false;" ><img id="img2" src="matisse_logo.png"  alt="Priya" height="90px"  
                   /></a></li>
             <li><a href="artistPicasso.php" id="artistPicasso" onclick="document.location=this.id+'.php';return false;" ><img id="img3" src="picasso_logo.png"  alt="Priya" height = "90px" 
                  /></a></li>
             <li><a href="artistRaphael.php" id="artistRaphael"  onclick="document.location=this.id+'.php';return false;" ><img id="img4" src="Raphael_logo.png" alt="Priya" height = "90px" 
                  /></a></li>
-            <li><a href="artistVanGogh.php" id="aristVanGogh" onclick="document.location=this.id+'.php';return false;" ><img id="img5" src="Vangough_logo.png" alt="Priya" height = "90px" 
+            <li><a href="artistVanGogh.php" id="artistVanGogh" onclick="document.location=this.id+'.php';return false;" ><img id="img5" src="Vangough_logo.png" alt="Priya" height = "90px" 
                  /></a></li>
             
         </ul>
